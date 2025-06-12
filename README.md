@@ -1,1 +1,1 @@
-####CSS COMP1054 - Assignment One 
+CSS COMP1054 - Assignment One 
